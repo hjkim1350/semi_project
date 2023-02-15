@@ -95,4 +95,4 @@
 - **articles App CRUD 구현**
 - 코드 저장소: https://github.com/hjkim1350/semi_project/tree/master/articles
 - 구현 주요 기능
-1) 
+  - asdf
