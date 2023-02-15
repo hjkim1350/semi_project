@@ -89,6 +89,7 @@
 ### ✅ 내가 담당한 기능
 
 > **💻 메인 Role - BackEnd: articles App, 검색 기능 및 인기 검색어, 대댓글 기능 구현**
+> 
 > **💻 서브 Role - FrontEnd: 전반적인 커뮤니티 디자인**
 
 - **articles App CRUD 구현**
