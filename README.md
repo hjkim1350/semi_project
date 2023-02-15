@@ -68,9 +68,6 @@
 
 
 ### 📱 ERD 설계
-
----
-
 ![ERD](README.assets/ERD.png)
 
 
@@ -78,12 +75,20 @@
 ### 📁 주요 source 파일 트리구조
 
 ```text
-┌─📁 pjt (프로젝트 - setting 파일)
+┌─📁 semi_pjt_1 (프로젝트 - setting 파일)
 ├─📁 accounts (회원관리 App)
-├─📁 articles (채용 공고 App)
-├─📁 posts (사용자 커뮤니티 App)
-├─📁 static (이미지, CSS 파일)
+├─📁 articles (사용자 커뮤니티 App)
+├─📁 products (중고물품 판매 게시판 App)
+├─📁 chats (채팅 App)
+├─📁 service_center (서비스센터 및 CS 상담 App)
 ├─🗒️ .gitignore (env, 가상환경 파일 git ignore)
-├─🗒️ prac.json (채용공고 크롤링 수집 소스 json 파일)
 └─🗒️ requirements.txt (pip 패키지 목록)
 ```
+
+
+### ✅ 내가 담당한 기능
+
+> **💻 메인 Role - BackEnd: articles App, 검색 기능 및 인기 검색어, 대댓글 기능 구현**
+> **💻 서브 Role - FrontEnd: 전반적인 커뮤니티 디자인**
+
+- **articles App CRUD 구현**
