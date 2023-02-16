@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/108647811/218964833-5d816153-6171-42d9-92d3-ba7cb88b2e3d.png)
 
+<br>
+
 ## 🔨 프로젝트 기간
 - 2022.10.31(MON) ~ 2022.11.07(MON), ** 총 8일 **
 
@@ -18,21 +20,26 @@
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
+<br>
 
 ### 📚 사용한 API
 
 - 거래장소 지정용 지도 - kakaoMap
 
+<br>
 
 ### 😎 프로젝트 인원 구성
 - 총 5명
 - 담당 역할: BackEnd
+
+<br>
 
 ### 🕶️ 벤치마킹/레퍼런스 사이트
 
 - **당근마켓** https://www.daangn.com/
 - **오늘의집** https://ohou.se/
 
+<br>
 
 ### ⚛️ 기능 설계
 
@@ -65,12 +72,12 @@
   - 사진 업로드 (선택)
   - 자주 묻는 질문 (후순위)
 
-
+<br>
 
 ### 📱 ERD 설계
 ![ERD](README.assets/ERD.png)
 
-
+<br>
 
 ### 📁 주요 source 파일 트리구조
 
@@ -85,6 +92,7 @@
 └─🗒️ requirements.txt (pip 패키지 목록)
 ```
 
+<br>
 
 ### ✅ 내가 담당한 기능
 
@@ -102,6 +110,7 @@
 - ** article App 화면 디자인 **
 ![image](https://user-images.githubusercontent.com/108647811/218971994-297db4ee-ed43-42d9-acc6-b7ca94bfc6c4.png)
 
+<br>
 
 ### ⌨️ 프로젝트 후기
 교육 시작하고 아무 가이드 없이 빈 화면에서 시작한 첫 프로젝트였다. 교육 때 배웠던 CRUD, 좋아요, 팔로우를 기본틀로 잡고 지도API, 채팅, 싫어요 사용자수, 대댓글이라는 부가적인 기능을 올리기 시작하면서 많은 검색과 코드 이해를 필요로 했다. 사실 CRUD 수업을 할때 개념을 듣고 "그렇구나"라고 이해를 하다가도 막상 처음부터 코딩을 하라그러면 굉장히 막막했다. 프로젝트를 시작하니 새로운 기능을 업로드하기 위해서는 기존의 코드를 이해해야 새로운 기능을 올릴 수 있었기 때문에 어떻게 CRUD가 구현되는지 그 원리를 깊게 들여다볼 수 있었다. 이래서 주변에서 자율 프로젝트를 반드시하라고 조언을 해줬다는걸 깨달은 프로젝트였다.
